@@ -1,0 +1,1 @@
+console.log('vijay'+21)
